@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "dc21488d-f7b8-757d-cf44-555e5f2d8de3",
+    "PackageVersion": "7.18.4",
+    "Name": "DevPackage",
+    "ModifiedOnUtc": "\/Date(1634648766000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "e14dcfb1-e53c-4439-a876-af7f97083ed9",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise"
+      }
+    ]
+  }
+}
