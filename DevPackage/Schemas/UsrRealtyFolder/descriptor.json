@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "c966cfc1-c4d2-4a17-a3ff-fcf6d5122670",
+    "Name": "UsrRealtyFolder",
+    "ModifiedOnUtc": "\/Date(1634736277000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Недвижимость"
+  }
+}
